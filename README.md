@@ -9,6 +9,6 @@ Hot-flip
 # Dataset:  
 https://www.eraserbenchmark.com/
 
-
+# Remark
 This is the master thesis code only.   
 The dataset, model_checkpoints as well as result was not included.
